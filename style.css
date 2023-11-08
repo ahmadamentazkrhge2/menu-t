@@ -1,0 +1,31 @@
+
+
+.one{
+  font-size: 30px;;
+
+  padding:20px;
+  background: #eee;
+  border-bottom: red 10px solid;
+}
+.two{
+  font-size: 30px;;
+
+  padding:20px;
+  background: #eee;
+  border-bottom: rgb(8, 249, 84) 10px solid;
+}
+
+.three{
+  font-size: 30px;;
+
+  padding:20px;
+  background: #eee;
+  border-bottom: rgb(246, 255, 0) 10px solid;
+}
+
+.one,
+.two,
+.three{
+  padding:40px;
+}
+
